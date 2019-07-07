@@ -1,0 +1,7 @@
+Mssv      |Ten account ID               |Pass                         |Vai tro       |Active                 
+====================================================================================================         
+1231231   danhdanhdanh                  343                           user           actived        
+1111111   danhdanhdanh1                 111                           user           actived        
+1231231   nguyenhoaidanh                4                             user           actived        
+1231231   asdasdasdasd                  asdasd                        user           actived        
+1212121   danhnguyenhoaid               1                             user           actived        

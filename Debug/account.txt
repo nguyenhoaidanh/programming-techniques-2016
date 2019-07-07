@@ -1,0 +1,37 @@
+Mssv      Ten account ID                Pass                          Vai tro        Active                 
+====================================================================================================               
+1612392   phamhongnhat                  1                             user           blocked        
+1612345   nguyenhoaidanh                123                           user           activated      
+1617894   buibaocuong                   123456789                     user           activated      
+1619865   giapphuongduy                 123456789                     user           activated      
+1612356   quangcongdanh                 87654321                      user           activated      
+1613985   nguyenquocduong               12378945                      user           activated      
+1613654   truongphuongnam               01234567                      user           blocked        
+1612035   thanductai                    76543210                      user           activated      
+1612590   ngominhnhut                   012345678                     user           blocked        
+1615870   vosontra123                   123456789                     user           activated      
+1612345   nguyentruongthien             876543210                     user           activated      
+1615432   leducthinh                    12345678                      user           activated      
+1612937   trhoanghuy                    12345678                      user           activated      
+1619564   phamquangnghia                12345678                      user           activated      
+1615832   nguyenlehuy                   123456789                     user           activated      
+1612335   lehoangkim                    12345678                      user           activated      
+1615555   lahoangduc                    123456789                     user           activated      
+1612222   tranminhduc                   87654321                      user           activated      
+1614444   lequocviet                    0123456789                    user           activated      
+1613333   phanngocanh                   09876543                      user           activated      
+1618888   thanhphong                    12345678                      user           activated      
+1619999   nguyenxuanvinh                123456789                     user           activated      
+1617777   trandangkhoi                  0123456789                    user           activated      
+1616666   tranquocdinh                  12345678                      user           activated      
+1611111   duongquanghuy                 987654321                     user           activated      
+1615532   letrongphu                    1234567890                    user           activated      
+1612545   chiminhquang                  12345678                      user           activated      
+1615522   luongthienchi                 123123123                     user           activated      
+1616654   daomanhhung                   12345678                      user           activated      
+1612352   buianhnhat                    123123123                     user           activated
+1610473   nguyengiapphuongduy           123                           user           activated      
+
+
+1211111   duygiap                       123                           user           activated      
+1610342   cuong1                        123456                        user           activated      

@@ -1,0 +1,7 @@
+Ms        |Ten account ID               |Pass                         |Vai tro       |Active                 
+====================================================================================================  
+1	nguyenhoaidanh			123				thu_thu		activated
+2       nguyengiapphuongduy             123                             thu_thu         activated
+3         buibaocuong                   1                             thu_thu        activated
+4       phamhongnhat                    123                             thu_thu         activated        
+
